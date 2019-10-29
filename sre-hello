@@ -7,3 +7,16 @@ int main()
 	printf("GO SPARTANS!\n");
 	return 0;
 }
+
+int get_Result()
+{
+	int a = 3;
+	float b = 4.5;
+	double c = 5.25;
+	float sum = a + b + c;
+	/* This calculates the sum of a, b, and c */
+	
+	printf("The sum of a, b, and c is %f.", sum);
+	return 0;
+	/* The sum of a, b, and c is 12.750000. */
+}
