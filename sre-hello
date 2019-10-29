@@ -1,0 +1,9 @@
+#include "stdio.h"
+
+int main()
+{
+	printf("sre-hello\n");
+	printf("william sre\n");
+	printf("GO SPARTANS!\n");
+	return 0;
+}
